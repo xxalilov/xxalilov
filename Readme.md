@@ -9,7 +9,7 @@ You can follow me, contact me, see what I do, or use my open source code:
 - LinkedIn: [Xolbek Xalilov](https://www.linkedin.com/in/https://www.linkedin.com/in/xolbek-xalilov-30309821b/)
 - Dev: [Xolbek Xalilov](https://dev.to/xxalilov)
 - Medium: [Xolbek Xalilov](https://medium.com/@xolbekxalilov)
-- Website: [xxalilov](https://xxalilov.uz)
+- Website: [xxalilov.uz](https://xxalilov.uz)
 
 <a href="https://github.com/xxalilov">
 <p align="left">
